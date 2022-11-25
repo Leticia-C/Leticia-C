@@ -1,4 +1,4 @@
-### Olá. Bem vindx ao meu GitHub  👋
+### Hello World  👋
 
 <div align="center">
   <a href="https://github.com/Leticia-C">
