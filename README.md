@@ -1,8 +1,6 @@
 <h1 align="center">Olá, eu sou a Let👋</h1>
 <h3 align="center">Psicóloga formada que percebeu o potencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Full Stack Web e estou apaixonada pela Psicologa formada que percebeu o pontencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Web Full Stack e estou apaixonada pela área.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leticia-c" alt="leticia-c" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/let%c3%adcia-campos-gumiero-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/let%c3%adcia-campos-gumiero-dev" height="30" width="40" /></a>
