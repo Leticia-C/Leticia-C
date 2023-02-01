@@ -1,4 +1,34 @@
-<h1 align="center">Olá, eu sou a Let👋</h1>
+<h1 align="center">Hello World, eu sou a Let👋</h1>
+
+<br>
+<br>
+
+```JavaScript
+const aboutMe = {
+  fullName: 'Letícia Campos Gumiero',
+  age: '29 years old',
+  hobbies: {
+  read: books and mangas, 
+  watch: animes, movies and TV shows,
+  listen: musics and podcasts,
+  randomFactsAboutMe: 'I'm purple belt in Karate Shotokan and I'm white belt in Brazilian Jiu Jitsu',
+  },
+  softSkills: [
+    'empathy',
+    'problem-solving attitude',
+    'collaboration'
+    'desire to learn'
+    'diversity awareness',
+  ]
+};
+
+```
+
+
+
+<br>
+
+
 <p align="center">Formada em Psicologia, percebi o potencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Web Full Stack e estou apaixonada pela área, em especial Back-End.</p>
 <p align="center"> No meu tempo livre, gosto de ler(amo Stephan King,Jane Austin, Markus Zusak, entre outros). Também gosto muito de ouvir podcasts(Jovem Nerd, Indo e Voltando, Budejo, entre outros).</p>
 
