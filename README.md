@@ -1,6 +1,8 @@
 <h1 align="center">Hello World, eu sou a Let👋</h1>
 
 <br>
+
+<p align="center">Formada em Psicologia, percebi o potencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Web Full Stack e estou apaixonada pela área, em especial Back-End.</p>
 <br>
 
 ```JavaScript
@@ -28,9 +30,6 @@ const aboutMe = {
 
 <br>
 
-
-<p align="center">Formada em Psicologia, percebi o potencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Web Full Stack e estou apaixonada pela área, em especial Back-End.</p>
-<p align="center"> No meu tempo livre, gosto de ler(amo Stephan King,Jane Austin, Markus Zusak, entre outros). Também gosto muito de ouvir podcasts(Jovem Nerd, Indo e Voltando, Budejo, entre outros).</p>
 
 <h3 align="center">Entre em contato comigo:</h3>
 <p align="center">
