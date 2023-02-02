@@ -30,7 +30,7 @@ const aboutMe = {
 <h3 align="center">Entre em contato comigo:</h3>
 <p align="center">
  <a href = "mailto:leticia.camposg93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/letícia-campos-gumiero-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/letícia-campos-gumiero-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </p>
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
