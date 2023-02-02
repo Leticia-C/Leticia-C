@@ -25,11 +25,7 @@ const aboutMe = {
 };
 
 ```
-
-
-
 <br>
-
 
 <h3 align="center">Entre em contato comigo:</h3>
 <p align="center">
