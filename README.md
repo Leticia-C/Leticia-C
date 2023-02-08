@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">Formada em Psicologia, percebi o potencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Web Full Stack e estou apaixonada pela área, em especial Back-End.</p>
+<p align="center">Formada em Psicologia, percebi o potencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Web Full Stack e estou apaixonada pela área.</p>
 <br>
 
 ```JavaScript
