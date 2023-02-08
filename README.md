@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, eu sou a Let👋</h1>
+<h1 align="center">Hello World👋</h1>
 
 <br>
 
