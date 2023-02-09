@@ -13,7 +13,6 @@ const aboutMe = {
   read: books and mangas, 
   watch: animes, movies and TV shows,
   listen: musics and podcasts,
-  randomFactsAboutMe: 'I'm purple belt in Karate Shotokan and I'm white belt in Brazilian Jiu Jitsu',
   },
   softSkills: [
     'empathy',
@@ -23,7 +22,7 @@ const aboutMe = {
     'diversity awareness',
   ]
 };
-
+ const randomFactsAboutMe = () => console.log('I'm purple belt in Karate Shotokan and I'm white belt in Brazilian Jiu Jitsu'),
 ```
 <br>
      <div align="center">
