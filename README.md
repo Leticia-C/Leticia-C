@@ -22,7 +22,11 @@ const aboutMe = {
     'diversity awareness',
   ]
 };
- const randomFactsAboutMe = () => console.log('I'm purple belt in Karate Shotokan and I'm white belt in Brazilian Jiu Jitsu'),
+
+function randomFactsAboutMe() {
+  console.log(/I'm purple belt in Karate Shotokan and I'm white belt in Brazilian Jiu Jitsu/);
+  }
+ 
 ```
 <br>
      <div align="center">
