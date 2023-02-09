@@ -2,13 +2,14 @@
 
 <br>
 
-<p align="center">Formada em Psicologia, percebi o potencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Web Full Stack e estou apaixonada pela área.</p>
+<p align="center">Formada em Psicologia, percebi o potencial da tecnologia para impactar positivamente a vida das pessoas. Atualmente estudo Desenvolvimento Web Full Stack na Trybe e estou apaixonada pela área.</p>
 <br>
 
 ```JavaScript
 const aboutMe = {
   fullName: 'Letícia Campos Gumiero',
   age: '29 years old',
+  country: 'Brazil',
   hobbies: {
   read: books and mangas, 
   watch: animes, movies and TV shows,
