@@ -25,7 +25,7 @@ const aboutMe = {
 
 function randomFactsAboutMe() {
   console.log(/I'm purple belt in Karate Shotokan and I'm white belt in Brazilian Jiu Jitsu/);
-  }
+}
  
 ```
 <br>
