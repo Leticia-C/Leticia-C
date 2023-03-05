@@ -57,6 +57,7 @@ function randomFactsAboutMe() {
 
 <h3 aling="center">Estou aprendendo:</h3>
  <img aling="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+   <img aling="center" src="https://img.shields.io/badge/Java-3982CE?style=for-the-badge&logo=Java&logoColor=black" />
 </div>
 <h3 align="center">Entre em contato comigo:</h3>
 <p align="center">
